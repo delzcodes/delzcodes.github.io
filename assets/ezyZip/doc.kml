@@ -1,0 +1,33 @@
+<kml>
+  <Document>
+    <name>Sites KML File - 26 October 2021</name>
+    <description>Document entities</description>
+    <LookAt>
+      <longitude>31.5107329999242</longitude>
+      <latitude>-26.5374799999859</latitude>
+      <range>192553.821835348</range>
+      <altitudeMode>relativeToGround</altitudeMode>
+    </LookAt>
+    <NetworkLink>
+      <name>Sites</name>
+      <description>List of sites</description>
+      <Link>
+        <href>files/sites.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Transmitters</name>
+      <description>List of transmitters</description>
+      <Link>
+        <href>files/transmitters.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Coverage plots</name>
+      <description>List of coverage plots</description>
+      <Link>
+        <href>files/predictions.kml</href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
